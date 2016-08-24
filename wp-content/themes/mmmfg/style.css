@@ -7,3 +7,11 @@ Template: vantage
 Version: 0.0.1
 Tags: custom, light, mmmfg, page-builder
 */
+
+.main-navigation {
+    background: #055FAE;
+}
+
+.main-navigation ul li a:hover {
+    background: #054c8b;
+}
